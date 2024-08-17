@@ -17,7 +17,7 @@
     "@11ty/eleventy-fetch": "^4.0.1",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "autoprefixer": "^10.4.19",
-    "cssnano": "^6.1.2",
+    "cssnano": "^7.0.4",
     "htmlnano": "^2.1.0",
     "js-beautify": "^1.15.1",
     "js-yaml": "^4.1.0",
